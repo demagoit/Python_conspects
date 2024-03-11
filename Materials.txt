@@ -1,0 +1,48 @@
+Додаткові матеріали від викладача:
+https://docs.python.org/3/library/string.html#format-specification-mini-language
+https://realpython.com/python-string-formatting/
+https://realpython.com/regex-python/
+https://realpython.com/regex-python-part-2/
+https://regex101.com/
+https://realpython.com/python-yaml/
+https://realpython.com/python-json/
+https://realpython.com/working-with-files-in-python/
+
+https://proglib.io/p/python-oop
+https://towardsdatascience.com/solid-coding-in-python-1281392a6a94
+https://dou.ua/lenta/articles/solid-principles/
+https://techukraine.net/%D1%89%D0%BE-%D1%82%D0%B0%D0%BA%D0%B5-%D0%BC%D0%B0%D0%B3%D1%96%D1%87%D0%BD%D1%96-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8-%D0%B2-python-%D1%96-%D1%8F%D0%BA-%D0%BD%D0%B8%D0%BC%D0%B8-%D0%BA%D0%BE%D1%80/
+https://medium.com/@anshulganvir/introduction-to-docker-337b9d09a079
+https://docs.docker.com/get-started/overview/
+https://codechick.io/tutorials/python/python-threading
+https://codeguida.com/post/134
+https://python-scripts.com/threading
+https://docs.python.org/3/library/threading.html
+
+https://code.visualstudio.com/docs/python/debugging
+https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
+https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html
+
+https://www.youtube.com/watch?v=i6n9-_oh_2E
+https://www.youtube.com/watch?v=MaEFOT9O9jI
+https://www.youtube.com/watch?v=yWzMiaqnpkI
+
+HTML
+https://htmlreference.io/
+https://html.spec.whatwg.org/multipage/
+https://cssreference.io/
+https://developers.google.com/search/docs/crawling-indexing/special-tags?visit_id=638392993163473866-3050964948&rd=1
+https://validator.w3.org/nu/ - Валідація потрібна для виявлення помилок у синтаксисі розмітки HTML-документа і розбіжностей з HTML-специфікацією, вказаною в <!DOCTYPE >.
+https://developer.chrome.com/docs/devtools/ - необхідно навчитися працювати з інструментами розробника. Вони присутні у всіх сучасних браузерах і не вимагають додаткового встановлення.
+https://codeguide.co/- Якщо код не оформлений відповідно до стандартів - він втрачає читабельність і, як наслідок - швидкість розробки падає.
+https://html.spec.whatwg.org/multipage/named-characters.html
+https://www.toptal.com/designers/htmlarrows/symbols/
+https://squoosh.app/ - Squoosh для оптимізації растрової графіки
+https://jakearchibald.github.io/svgomg/ - SVGOMG для оптимізації векторної графіки
+CSS
+https://webdesign.tutsplus.com/uk/the-30-css-selectors-you-must-memorize--net-16048t
+https://flexbox.tech/
+https://flexboxfroggy.com/
+https://www.youtube.com/watch?v=jrigp2L-P-0
+
+refactoring.guru
