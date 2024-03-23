@@ -48,6 +48,8 @@ https://www.w3schools.com/python/python_mongodb_getstarted.asp
 https://realpython.com/python-redis
 https://dev.to/bshadmehr/notification-sender-with-rabbitmq-o4h
 
+Ще один хороший ресурс для вивчення скрапінгу - http://scrapingclub.com. Там є безліч посібників щодо використання іншого, просунутішого інструменту — Scrapy.
+
 
 https://code.visualstudio.com/docs/python/debugging
 https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
